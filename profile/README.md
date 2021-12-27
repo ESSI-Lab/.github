@@ -1,4 +1,4 @@
-<img src="https://github.com/ESSI-Lab/.github/raw/main/profile/CNR-IIA-ESSI-Lab.png" height="300px" />
+<img src="https://github.com/ESSI-Lab/.github/raw/main/profile/CNR-IIA-ESSI-Lab.png" height="100px" />
 
 ## What is ESSI-Lab?
 
