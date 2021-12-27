@@ -6,4 +6,4 @@ The <a href="http://essi-lab.eu/">Earth and Space Science Informatics Laboratory
 
 Its work focuses on Knowledge generation and management from Earth Observation (big) Data to address Global Changes through an informed decision-making process.
 
-ESSI-Lab's GitHub repositories contain code for software projects created or maintained by developers working at ESSI-Lab. We actively encourage contributions to these projects in the form of issues and pull requests.
+ESSI-Lab's GitHub repositories contain code for software projects created or maintained by developers working at ESSI-Lab.
