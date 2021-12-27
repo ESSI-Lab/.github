@@ -9,4 +9,4 @@ Its work focuses on Knowledge generation and management from Earth Observation (
 ESSI-Lab's GitHub repositories contain code for software projects created or maintained by developers working at ESSI-Lab. We actively encourage contributions to these projects in the form of issues and pull requests.
 
 ### Participant Code of Conduct
-If you're interested in contributing, please take a look at ESSI-Lab's Contributor Code of Conduct.
+If you're interested in contributing, please take a look at <a href="https://raw.githubusercontent.com/ESSI-Lab/DAB/main/CODE_OF_CONDUCT.md">ESSI-Lab's Contributor Code of Conduct</a>.
