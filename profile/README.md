@@ -1,3 +1,5 @@
+<img src="CNR-IIA-ESSI-Lab.png" />
+
 ## What is ESSI-Lab?
 
 The <a href="http://essi-lab.eu/">Earth and Space Science Informatics Laboratory (ESSI-Lab)</a> conducts research and innovation activitities at the <a href="https://iia.cnr.it/sede-firenze/">Florence division</a> of the <a href="https://iia.cnr.it/">Institute of Atmospheric Research (IIA)</a> of the <a href="https://www.cnr.it">National Research Council of Italy (CNR)</a>.
